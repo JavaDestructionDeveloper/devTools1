@@ -8,3 +8,5 @@ function sayGoodbye() {
 }
 
 greet("Aayush", sayGoodbye);
+
+greet("Aayush", sayGoodbye);
